@@ -1,6 +1,6 @@
 {
   "BlackList": [
-    { "id": "1234567", "username": "@User1" },
-    { "id": "5252", "username": "@User3" },
+    { "username": "@User1" },
+    { "username": "@User3" }
   ]
 }
