@@ -1,7 +1,7 @@
 {
-  "BlackList": [
-    { "username": "@User1" },
-    { "username": "@GENERAL_REAL" },
-    { "username": "@User3" }
+  "blacklist": [
+    "@User1",
+    "@GENERAL_REAL",
+    "@User3"
   ]
 }
